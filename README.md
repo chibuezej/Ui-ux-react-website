@@ -1,3 +1,7 @@
+# FIGMA file
+
+https://www.figma.com/file/C8UIcMsompVYjmfeqUQ5OT/gpt3-(Copy)?type=design&node-id=0-15&t=1r7hX18JWgoycYG1-0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
